@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Daniel Lanzillotta Serodio and I am a AI/ML Developer from CEFET-RJ IEEE Student Branch</h2>
+<h2 align="left"> My name is Daniel Lanzillotta Serodio and I'm an AI/ML Developer from CEFET-RJ IEEE Student Branch</h2>
 
 ###
 
