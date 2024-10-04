@@ -82,9 +82,9 @@
     </td>
     <td align="center" width="500>
       <a href="https://www.r-project.org/" >
-        <img src="https://th.bing.com/th/id/R.cfc8c787df244df93ac7360ec5c72e4e?rik=FY6f5K1GBcVSTQ&pid=ImgRaw&r=0" height="250" alt="r logo"  />
+        <img src="https://github.com/dlserodio/dlserodio/blob/main/Assets/Mock%20Interview%20Agent%20(1).gif" height="250" alt="r logo"  />
       </a>
-      <br>
+      <br>In Progress
     </td>
     <td align="center" width="500">
       <a href="https://www.r-project.org/" >
