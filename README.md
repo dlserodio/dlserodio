@@ -8,13 +8,11 @@
 </div>
 <br>
 
-### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎Hello GitHub, I'm Daniel‎ ‎ 🧑🏻‍💻✨
-&emsp; ***About Me***<br>
+### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎About Me✨
 &emsp;•‎ ‎Pursuing Bachelor's in Electrical Engineering ⚡💻⚙️<br>
 &emsp;•‎ Natural Language Processing Project Leader at CEFET-RJ IEEE SB 💬🔠🤖<br>
 &emsp;•‎ Student Researcher in Disaster Risk Reduction 🌱⚠️🏭<br>
 &emsp;•‎ ‎Data Science Driven 📊📈💻<br>
-
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -80,4 +78,3 @@
   </tr>
 </table>
 
-###
