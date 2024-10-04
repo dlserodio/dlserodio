@@ -6,16 +6,10 @@
 
   </a>
 </div>
+
 <br>
 
-### &ensp;<a href="#"><img src="https://cutt.ly/bejwPyFP" width="16"></a> <a href="#"><img src="https://cutt.ly/AejwPXxy" width="18"/></a>‎ ‎‎ ‎About Me✨
-&emsp;•‎ ‎Pursuing Bachelor's in Electrical Engineering ⚡💻⚙️<br>
-&emsp;•‎ Natural Language Processing Project Leader at CEFET-RJ IEEE SB 💬🔠🤖<br>
-&emsp;•‎ Student Researcher in Disaster Risk Reduction 🌱⚠️🏭<br>
-&emsp;•‎ ‎Data Science Driven 📊📈💻<br>
-<br>
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Personal Favorites 🌟</h2>
 
 > Languages, librarys, and other things that I like to work with.
 
@@ -77,4 +71,27 @@
     </td>
   </tr>
 </table>
+<h2 align="left" id="macropower-tech">My Work ⌨️🖥️</h2>
+<table>
+  <tr>
+    <td align="center" width="500">
+      <a href="https://www.python.org/" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="250" alt="python logo"  />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="500>
+      <a href="https://www.r-project.org/" >
+        <img src="https://th.bing.com/th/id/R.cfc8c787df244df93ac7360ec5c72e4e?rik=FY6f5K1GBcVSTQ&pid=ImgRaw&r=0" height="250" alt="r logo"  />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="500">
+      <a href="https://www.r-project.org/" >
+        <img src="https://github.com/dlserodio/dlserodio/blob/main/Assets/Mock%20Interview%20Agent.gif" height="250" alt="r logo" style="border-radius: 60px;" />
+      </a>
+      <br>In Progress
+    </td>
+<table>
+
 
